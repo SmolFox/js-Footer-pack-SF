@@ -1,0 +1,25 @@
+{
+  "name": "js-footer-pack-sf",
+  "version": "0.0.1",
+  "description": "allows dynamic footer generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmolFox/js-Footer-pack-SF.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "SmolFox <cosmicnight.thunderclan@gmial.com> (http://SmolFox.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SmolFox/js-Footer-pack-SF/issues"
+  },
+  "homepage": "https://github.com/SmolFox/js-Footer-pack-SF#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
